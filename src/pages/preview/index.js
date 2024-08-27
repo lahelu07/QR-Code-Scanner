@@ -23,6 +23,7 @@ function Preview({navigation, route}) {
   );
 }
 
+//hello
 
 var styles = StyleSheet.create({
   image: {
