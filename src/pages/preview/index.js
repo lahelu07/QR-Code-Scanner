@@ -23,6 +23,7 @@ function Preview({navigation, route}) {
   );
 }
 
+
 var styles = StyleSheet.create({
   image: {
     resizeMode: 'contain',
